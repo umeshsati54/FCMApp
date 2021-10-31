@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478319665353",
+    "project_id": "fcmapp-28b2a",
+    "storage_bucket": "fcmapp-28b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478319665353:android:1947cc9c8ea92d18802d18",
+        "android_client_info": {
+          "package_name": "com.usati.fcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478319665353-g6e99e4lpt4edh6blsa8nsndo9k45q9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc7uXp-1LZpfegA7hS4eQ-n3F7FNMmgHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478319665353-g6e99e4lpt4edh6blsa8nsndo9k45q9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
